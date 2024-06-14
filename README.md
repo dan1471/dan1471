@@ -8,7 +8,7 @@ I'm a passionate coder from Nairobi, Kenya. I'm a student with a strong interest
 - 🧑‍🎓 I'm a student with a passion for science and technology
 - 💻 I enjoy spending hours coding, especially in Python
 - 🔭 My goal is to build an OS that can run on any machine
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:dan0703778685@gmail.com)
 
 ## 🛠️ Skills
 
@@ -21,23 +21,15 @@ I'm a passionate coder from Nairobi, Kenya. I'm a student with a strong interest
 - Advanced Python programming
 - System programming and OS development
 - Machine learning and AI
+ 
 
-## 👨‍💻 Projects
-
-Here are a few projects I've been working on:
-
-1. **[Project Name](https://github.com/your-username/project-name)**: Brief description of the project.
-2. **[Another Project](https://github.com/your-username/another-project)**: Brief description of the project.
-
+ 
 ## 📈 GitHub Stats
 
 ![Dancan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan1471&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [GitHub](https://github.com/your-username)
+How to reach me: [Email](mailto:dan0703778685@gmail.com)
 
 ## 💬 Ask Me About
 

@@ -9,7 +9,8 @@ I'm a passionate coder from Nairobi, Kenya. I'm a student with a strong interest
 - 💻 I enjoy spending hours coding, especially in Python
 - 🔭 My goal is to build an OS that can run on any machine
 - 📫 How to reach me: [Email](mailto:dan0703778685@gmail.com)
-
+## My website
+-  🌍 [MY SITE](https://www.shovee.com/its/Dancan) 
 ## 🛠️ Skills
 
 - **Languages**: Python, HTML, CSS, JavaScript
